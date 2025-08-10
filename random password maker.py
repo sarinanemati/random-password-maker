@@ -1,6 +1,6 @@
 import random
 print("this is a random password maker")
-print ("please fill the blanks bellow")
+print ("please fill the blanks below")
 
 first_name = input('first name: ')
 last_name = input('last name: ')
@@ -16,5 +16,6 @@ final_password = shuffle_name + str(random_number)
 
 print ('your password is: ', final_password)
 print('have a nice day! <3')
+
 
 
